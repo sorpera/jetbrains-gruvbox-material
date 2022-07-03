@@ -2,6 +2,9 @@
   <id>com.dominik.gruvbox.material</id>
   <name>Gruvbox Material</name>
   <version>0.1</version>
+  <description>Gruvbox Material color scheme for editor and UI. Based on well known Gruvbox Theme
+    https://plugins.jetbrains.com/plugin/12310-gruvbox-theme, and existing Gruvbox Material theme
+    https://github.com/sainnhe/gruvbox-material</description>
   <vendor email="dominik.jetbrains@mailbox.org" url="https://github.com/sorpera/jetbrains-gruvbox-material">Dominik</vendor>
 
   <!-- please see https://plugins.jetbrains.com/docs/intellij/build-number-ranges.html for description -->
