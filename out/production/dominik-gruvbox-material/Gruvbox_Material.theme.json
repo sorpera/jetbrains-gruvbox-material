@@ -1,8 +1,8 @@
 {
-  "name": "Dominik Gruvbox Material",
+  "name": "Gruvbox Material",
   "dark": true,
   "author": "Dominik",
-  "editorScheme": "/Dominik_Gruvbox_Material.xml",
+  "editorScheme": "/Gruvbox_Material.xml",
   "colors": {
     "bg0": "#191a1a",
     "bg1": "#202121",

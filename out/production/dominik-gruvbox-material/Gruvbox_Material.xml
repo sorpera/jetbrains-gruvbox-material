@@ -1,4 +1,4 @@
-<scheme name="Dominik Gruvbox Material" version="142" parent_scheme="Darcula">
+<scheme name="Gruvbox Material" version="142" parent_scheme="Darcula">
   <colors>
     <option name="ADDED_LINES_COLOR" value="79740e" />
     <option name="ANNOTATIONS_COLOR" value="928374" />

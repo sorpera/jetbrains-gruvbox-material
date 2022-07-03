@@ -1,8 +1,8 @@
 <idea-plugin>
-  <id>com.dominik</id>
-  <name>Dominik Gruvbox Material</name>
-  <version>1.0</version>
-  <vendor email="dominik@yourcompany.com" url="http://www.dominik.com">Dominik</vendor>
+  <id>com.dominik.gruvbox.material</id>
+  <name>Gruvbox Material</name>
+  <version>0.1</version>
+  <vendor email="dominik.jetbrains@mailbox.org" url="https://github.com/sorpera/jetbrains-gruvbox-material">Dominik</vendor>
 
   <!-- please see https://plugins.jetbrains.com/docs/intellij/build-number-ranges.html for description -->
   <idea-version since-build="173.0"/>
@@ -13,7 +13,7 @@
 
   <extensions defaultExtensionNs="com.intellij">
     <!-- Add your extensions here -->
-    <themeProvider id="ab670a63-0593-4cbc-acd4-8b76f6a8fd8c" path="/Dominik_Gruvbox_Material.theme.json"/>
+    <themeProvider id="ab670a63-0593-4cbc-acd4-8b76f6a8fd8c" path="/Gruvbox_Material.theme.json"/>
   </extensions>
 
   <actions>
